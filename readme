@@ -1,0 +1,2 @@
+#!/bin/bash
+python lm.py trainraw.csv.7v2 trainrawfortest.csv7_smv2
